@@ -5,17 +5,17 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-------------------------------------------------------------------
+
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
-------------------------------------------------------------------
+
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
-------------------------------------------------------------------
+
 ### Output data
 
 The data in the x_subset.txt file are averages of the features described below. The averages are calculated for subject and activity pairs (meaning averaged through all the observations for the same activity and subject pairs). The units are the same as in the original features.
